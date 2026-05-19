@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-111111?style=flat-square&color=111111&labelColor=8B0000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Systems-111111?style=flat-square&color=111111&labelColor=8B0000"/>
+  <img src="https://img.shields.io/badge/Focus-Real_World_CS_Engineering-111111?style=flat-square&color=111111&labelColor=8B0000"/>
 </p>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ## `$ whoami`
 
-> Second-year B.Tech Computer Science student passionate about software engineering, continuous learning, and building impactful real-world solutions. I love bridging low-level systems knowledge with modern full-stack development.
+> Second-year B.Tech Computer Science student driven by one goal — applying CS concepts to solve real engineering problems. From embedded systems and networking to full-stack apps, I care about building things that actually work in the real world.
 
 <br/>
 
