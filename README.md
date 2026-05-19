@@ -89,22 +89,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Minecraft-oss">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Minecraft-oss&show_icons=true&theme=radical&bg_color=0D0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff1a1a&border_color=8B0000&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="175"
-  />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Minecraft-oss">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-oss&layout=compact&bg_color=0D0000&title_color=ff1a1a&text_color=ffffff&border_color=8B0000&border_radius=10&cache_seconds=1800&langs_count=8"
-    height="175"
-  />
-</a>
-
-<br/><br/>
-
 <a href="https://git.io/streak-stats">
   <img
     src="https://streak-stats.demolab.com?user=Minecraft-oss&theme=dark&background=0D0000&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=ffffff&dates=999999&border=8B0000&border_radius=10&stroke=8B0000"
